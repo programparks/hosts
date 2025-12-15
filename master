@@ -1,1 +1,8 @@
-Test Content
+# Pi-hole DirecTV Blocklist
+# Last updated: 2025-12-15
+# Total domains: 4
+
+0.0.0.0 xaaf-be-mt-live.directvadtech.com
+0.0.0.0 xaaf.prod.dtvcdn.com
+0.0.0.0 xaaf-metrics.directv.com
+0.0.0.0 5af10.v.fwmrm.net
